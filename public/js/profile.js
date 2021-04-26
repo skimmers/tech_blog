@@ -5,7 +5,7 @@
   //const needed_funding = document.querySelector('#project-funding').value.trim();
   const description = document.querySelector('#project-desc').value.trim();
 
-  if (name && description) //&& needed_funding && description) {
+  if (name && description) { //&& needed_funding && description) {
     const response = await fetch(`/api/projects`, {
       method: 'POST',
       body: JSON.stringify({ name, description}), //needed_funding, description }),
