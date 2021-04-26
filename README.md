@@ -2,7 +2,7 @@
 
 ## Installation/Deployment
 
-You can access the delployed site by going to this link: < >
+You can access the delployed site by going to this link: <https://techbloggt.herokuapp.com/>
 
 Please check to see if the assignment goals are met.
 
